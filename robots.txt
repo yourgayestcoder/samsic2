@@ -1,0 +1,11 @@
+User-agent: *
+Disallow:
+
+# Sitemap pour Google, Bing, etc.
+Sitemap: https://samsic-angers.fr/sitemap.xml
+
+# Autorisation du crawl complet
+Allow: /
+
+# Informations optionnelles
+Host: samsic-angers.fr
